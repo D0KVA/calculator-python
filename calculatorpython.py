@@ -8,9 +8,9 @@ while True:
     print("5. Возведение в степень")
     print("6. Квадратный корень")
     print("7. Факториал")
-    print("8. Синус")
-    print("9. Косинус")
-    print("10. Тангенс")
+    print("8. sin")
+    print("9. cos")
+    print("10. tg")
     print("11. Exit")
     zxc = input("Введите номер операции: ")
     if zxc == '11':
