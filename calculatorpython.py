@@ -44,6 +44,7 @@ while zxc != 11:
                 print("Ошибка: деление на 0.")
             else:
                 rez = num1 / num2
+                print(f"Результат: {rez}")
         elif zxc == 5:
             num1 = float(input("Введите первое число: "))
             num2 = float(input("Введите второе число: "))
