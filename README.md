@@ -8,6 +8,11 @@ This is a simple calculator program written in Python.
 - Subtraction
 - Multiplication
 - Division
+- Power
+- Square root
+- Sine
+- Cosine
+- Tan
 
 ## Getting Started
 
